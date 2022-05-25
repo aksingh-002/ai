@@ -1,0 +1,5 @@
+Calculator calc = new Calculator();
+calc.xvalue = 10;
+calc.yvalue = 20;
+calc.mul();
+system.debug('Answer is ' + calc.result);
